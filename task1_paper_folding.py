@@ -1,4 +1,5 @@
 import time
+import matplotlib.pyplot as plt
 
 # Code to calculate the thickness when the paper is folded 43 times
 THICKNESS = 0.00008
